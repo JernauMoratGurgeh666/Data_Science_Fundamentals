@@ -130,7 +130,9 @@ https://keras.io/api/optimizers/
 - Interpret and present results
 <br>
 https://www.tensorflow.org/tutorials/structured_data/time_series#multi-step_model
+<br>
 https://keras.io/api/models/model/#predict-method
+<br>
 https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html#sklearn.linear_model.LinearRegression.predict
 
 <br>
