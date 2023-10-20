@@ -7,13 +7,13 @@ How to implement neural networks – with TensorFlow and Keras.
 - Install IPython and Jupyter notebook
 - Install key packages: numpy, pandas, matplotlib, scikit-learn, tensorflow, keras
 <br>
-<br>
 https://www.python.org/downloads/
 <br>
 https://ipython.org/install.html
 <br>
 https://jupyter.org/install
 
+<br>
 <br>
 
 # **2** 📁 **Get the data**
@@ -22,13 +22,13 @@ https://jupyter.org/install
 - Put the data files in your project folder
 - Load data into numpy arrays or Pandas DataFrames
 <br>
-<br>
 https://archive.ics.uci.edu/ml/index.php
 <br>
 https://www.kaggle.com/datasets
 <br>
 https://data.gov/
 
+<br>
 <br>
 
 # **3** 🔎 **Explore the data**  
@@ -37,13 +37,13 @@ https://data.gov/
 - Find correlations, distributions, outliers etc. 
 - Identify issues and preprocess if needed
 <br>
-<br>
 https://scikit-learn.org/stable/modules/preprocessing.html
 <br>
 https://pandas.pydata.org/pandas-docs/stable/user_guide/missing_data.html
 <br>
 https://matplotlib.org/stable/tutorials/introductory/pyplot.html
 
+<br>
 <br>
 
 # **4** 📊 **Prepare data for modeling**   
@@ -53,13 +53,13 @@ https://matplotlib.org/stable/tutorials/introductory/pyplot.html
 - Standardize or normalize features
 - Oversample/undersample if needed
 <br>
-<br>
 https://seaborn.pydata.org/tutorial/relational.html
 <br>
 https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html
 <br>
 https://matplotlib.org/stable/gallery/index.html
 
+<br>
 <br>
 
 # **5** 🧠 **Build neural network model**
@@ -68,14 +68,13 @@ https://matplotlib.org/stable/gallery/index.html
 - Add layers, nodes, activations, regularization
 - Compile with loss function, optimizer, metrics
 <br>
-<br>
 https://keras.io/api/models/sequential/
 <br>
 https://www.tensorflow.org/api_docs/python/tf/keras/Model
 <br>
 https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html
 
-
+<br>
 <br>
 
 # **6** ⏱ **Train the model**  
@@ -84,13 +83,13 @@ https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_
 - Validate with validation_data and callbacks
 - Save checkpoints and early stopping 
 <br>
-<br>
 https://www.tensorflow.org/api_docs/python/tf/keras/Model#fit
 <br>
 https://keras.io/api/callbacks/
 <br>
 https://www.tensorflow.org/guide/keras/train_and_evaluate
 
+<br>
 <br>
 
 # **7** 📈 **Evaluate model performance**
@@ -99,13 +98,13 @@ https://www.tensorflow.org/guide/keras/train_and_evaluate
 - Plot train/test loss and metrics 
 - Check for over/underfitting
 <br>
-<br>
 https://scikit-learn.org/stable/modules/model_evaluation.html
 <br>
 https://www.tensorflow.org/tensorboard/get_started
 <br>
 https://www.tensorflow.org/api_docs/python/tf/keras/Model#evaluate
 
+<br>
 <br>
 
 # **8** 🌱 **Improve model performance**   
@@ -114,13 +113,13 @@ https://www.tensorflow.org/api_docs/python/tf/keras/Model#evaluate
 - Try different architectures, parameters etc
 - Tune hyperparameters with grid/random search
 <br>
-<br>
 https://scikit-learn.org/stable/modules/grid_search.html
 <br>
 https://www.tensorflow.org/tensorboard/hyperparameter_tuning_with_hparams
 <br>
 https://keras.io/api/optimizers/
 
+<br>
 <br>
 
 # **9** 🚀 **Use model for predictions**
@@ -130,11 +129,11 @@ https://keras.io/api/optimizers/
 - Make predictions with model.predict()
 - Interpret and present results
 <br>
-<br>
 https://www.tensorflow.org/tutorials/structured_data/time_series#multi-step_model
 https://keras.io/api/models/model/#predict-method
 https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html#sklearn.linear_model.LinearRegression.predict
 
+<br>
 <br>
 
 # **10** 🗃️ **Save and deploy model**   
@@ -142,7 +141,6 @@ https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearReg
 - Serialize model with to_json() and to_yaml()
 - Save model weights
 - Create API or web app to serve predictions
-<br>
 <br>
 https://www.tensorflow.org/tfx/guide/serving
 <br>
