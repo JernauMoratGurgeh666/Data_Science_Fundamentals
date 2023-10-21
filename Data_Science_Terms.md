@@ -483,10 +483,6 @@
 
 **Kid:** A polynomial is like a special kind of puzzle where you use numbers and letters to make a really cool math picture. You can add and subtract them to create the picture.
 
----
-
-I'm not familiar with the term "paragress" in the context of mathematics or commonly used terminology. If you have any other specific terms or concepts you'd like me to explain, please feel free to ask!
-
 
 ---
 
